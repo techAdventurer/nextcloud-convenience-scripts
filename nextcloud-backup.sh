@@ -4,7 +4,7 @@
 ##    Nextcloud backup script    ##
 ###################################
 
-# Logging should be enabled by adding a redirection to /var/logs/nextcloud-backup.sh when calling the script.
+# Logging should be enabled by adding a redirection to /var/logs/nextcloud-backup.log when calling the script.
 
 NEXTCLOUD_APP_NAME="Cloud"
 NEXTCLOUD_DB_NAME="nextcloud"
